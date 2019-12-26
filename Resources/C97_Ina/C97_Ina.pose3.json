@@ -3,15 +3,15 @@
 	"Groups": [
 		[
 			{
+				"Id": "Part",
+				"Link": []
+			},
+			{
 				"Id": "Part34",
 				"Link": []
 			},
 			{
 				"Id": "Part44",
-				"Link": []
-			},
-			{
-				"Id": "PartCore",
 				"Link": []
 			}
 		]

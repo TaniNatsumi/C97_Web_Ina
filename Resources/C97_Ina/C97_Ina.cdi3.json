@@ -441,6 +441,10 @@
 	],
 	"Parts": [
 		{
+			"Id": "Part",
+			"Name": "因幡はねる"
+		},
+		{
 			"Id": "Part34",
 			"Name": "*発光エフェクト"
 		},
@@ -451,18 +455,6 @@
 		{
 			"Id": "PartCore",
 			"Name": "Core"
-		},
-		{
-			"Id": "Part",
-			"Name": "因幡はねる"
-		},
-		{
-			"Id": "Part35",
-			"Name": "発光エフェクト3"
-		},
-		{
-			"Id": "Part33",
-			"Name": "効果ピクセル"
 		},
 		{
 			"Id": "Part2",
@@ -557,6 +549,50 @@
 			"Name": "ツインテR"
 		},
 		{
+			"Id": "Part35",
+			"Name": "発光エフェクト3"
+		},
+		{
+			"Id": "Part33",
+			"Name": "効果ピクセル"
+		},
+		{
+			"Id": "Part3",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "Part4",
+			"Name": "目R"
+		},
+		{
+			"Id": "Part5",
+			"Name": "目L"
+		},
+		{
+			"Id": "Part7",
+			"Name": "前髪"
+		},
+		{
+			"Id": "Part8",
+			"Name": "ツインテL"
+		},
+		{
+			"Id": "Part9",
+			"Name": "髪リボンL"
+		},
+		{
+			"Id": "Part10",
+			"Name": "横髪"
+		},
+		{
+			"Id": "ArtMesh65_Skinning",
+			"Name": "ツインテR(スキニング)"
+		},
+		{
+			"Id": "Part48",
+			"Name": "ツインテR(回転)"
+		},
+		{
 			"Id": "Part43",
 			"Name": "発光エフェクト3-8"
 		},
@@ -599,42 +635,6 @@
 		{
 			"Id": "Part46",
 			"Name": "効果ピクセル背後"
-		},
-		{
-			"Id": "Part3",
-			"Name": "眉毛"
-		},
-		{
-			"Id": "Part4",
-			"Name": "目R"
-		},
-		{
-			"Id": "Part5",
-			"Name": "目L"
-		},
-		{
-			"Id": "Part7",
-			"Name": "前髪"
-		},
-		{
-			"Id": "Part8",
-			"Name": "ツインテL"
-		},
-		{
-			"Id": "Part9",
-			"Name": "髪リボンL"
-		},
-		{
-			"Id": "Part10",
-			"Name": "横髪"
-		},
-		{
-			"Id": "ArtMesh65_Skinning",
-			"Name": "ツインテR(スキニング)"
-		},
-		{
-			"Id": "Part48",
-			"Name": "ツインテR(回転)"
 		},
 		{
 			"Id": "ArtMesh28_Skinning",
