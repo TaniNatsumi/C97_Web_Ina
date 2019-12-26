@@ -1,0 +1,31 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "C97_Ina.moc3",
+		"Textures": [
+			"C97_Ina.2048/texture_00.png"
+		],
+		"Pose": "C97_Ina.pose3.json",
+		"DisplayInfo": "C97_Ina.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/C97_Ina2.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
